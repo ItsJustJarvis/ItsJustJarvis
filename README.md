@@ -21,7 +21,7 @@ I will be launching a developer profile website in the future in order to provid
 
 I look forward to collaborating with like minded developers in the future and working to make valuable contributions to the industry.
 
-Till we meet again...
+Till we meet...
 
 Reeve Jarvis ✌️
 
