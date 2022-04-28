@@ -14,6 +14,9 @@ I am in the second year of my program and I am currently learning the following:
  - PHP programming and database integrations
  - Advanced CSS techniques for web development
  - Content Management systems and Wordpress development
+ - Project Management
+ - Social Media Management
+ - Advanced App Development
 
 My commits/contributions thus far on GitHub are entirely school related, ranging from simple websites to android mobile applications. I can not wait to complete my program and continue growing my skillset in the workplace. 
 
