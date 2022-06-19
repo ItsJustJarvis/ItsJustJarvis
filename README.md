@@ -1,45 +1,26 @@
 # Hi there 👋 
 
-My name is Reeve Jarvis, and I am an aspiring developer.
+My name is Reeve Jarvis, and I am an aspiring developer starting a new career in the tech industry.
 
 
 ## About me:
 
-I am 28 years old, and have made the decision to return to school and pursue a career in tech. I am currently studying at North Island College, on beautiful Vancouver Island in Canada. I am a huge gamer and hope to someday get involved in the video game industry.
+I am 29 years old, and over the past two years I have been working towards completing the Web and Mobile App Development program at North Island College. Recently graduated in high standing, I am currently searching for gainful employment. 
 
-I am in the second year of my program and I am currently learning the following:
+Throughout my program I developed skills in the following areas:
 
- - Swift programming for iOS development
- - Applied JavaScript techniques for web development
+ - Applied JavaScript techniques for modern web development
+ - Advanced CSS techniques for modern web development
  - PHP programming and database integrations
- - Advanced CSS techniques for web development
- - Content Management systems and Wordpress development
- - Project Management
- - Social Media Management
- - Advanced App Development
+ - Content Management Systems and Wordpress development
+ - Advanced App Development for both iOS and Android
+ - Project Management best practices
+ - Social Media Management solutions
 
-My commits/contributions thus far on GitHub are entirely school related, ranging from simple websites to android mobile applications. I can not wait to complete my program and continue growing my skillset in the workplace. 
-
-I will be launching a developer profile website in the future in order to provide a point of contact for prospective employers and to showcase my talents.
+My primary interest is front-end web development, using languages like JavaScript, HTML, CSS, PHP and their associated frameworks to build attractive/functional web applications.
 
 I look forward to collaborating with like minded developers in the future and working to make valuable contributions to the industry.
 
 Till we meet...
 
 Reeve Jarvis ✌️
-
-<!--
-**ItsJustJarvis/ItsJustJarvis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
